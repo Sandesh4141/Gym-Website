@@ -1,0 +1,41 @@
+*::selection{
+    color: rgb(255, 255, 100);
+}
+span{
+
+    color: yellow;
+}
+/* 
+body{
+    background-image: url(./img/Admi.jpg);
+    background-position: center center; 
+    max-width: 100%;
+    height: auto;
+    background-size: cover;
+    
+    background-repeat: no-repeat;
+}
+ */
+
+ body{
+     background-color: rgb(85, 81, 81);
+ }
+
+/* gallary section */
+
+/*------------- Footer Section----------- */
+
+.link{
+    text-decoration: none;
+    font-weight: 300;
+}
+.links:hover{
+    text-decoration: underline;
+}
+.link:visited{
+    color: yellow;
+}
+
+ /* --Form page styling-- */
+
+
